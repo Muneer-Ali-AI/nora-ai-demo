@@ -1,0 +1,7 @@
+{
+  "name": "Noura - Dental Assistant - demo 2",
+  "description": "A conversational voice assistant for Bright Smile Dental Clinic using Gemini Live API.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
